@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "87163229900",
+    "project_id": "unaddict-746e1",
+    "storage_bucket": "unaddict-746e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87163229900:android:a4c1dccd9d3ada8b929469",
+        "android_client_info": {
+          "package_name": "com.hrushingale.antiaddiction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87163229900-97g597214q21ekirqh0ivc84o0gc6r1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4jM7JgHD7jX9jUoCgigmHzRGlgnniEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87163229900-97g597214q21ekirqh0ivc84o0gc6r1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87163229900-pcfhsi802kvaossqjca0emjqcm87dtgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hrushingale.antiaddiction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
